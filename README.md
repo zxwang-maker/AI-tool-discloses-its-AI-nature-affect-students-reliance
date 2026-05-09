@@ -3,11 +3,13 @@
 **Research Question**
 How does the way an educational AI tool discloses its AI nature affect students’ reliance on the
 output for graded work?
+
 **Hypothesis**
-**H0:** Disclosure framing does not change the probability that a student chooses to verify the
-assistant’s output before using it for graded work. 
+
+**H0:** Disclosure framing does not change the probability that a student chooses to verify the assistant’s output before using it for graded work. 
 
 **H1:** More cautionary/verification-oriented disclosure increases the probability that a student chooses to verify before using the assistant output. 
+
 **Experiment Design**
 Our experiment utilized an online survey to investigate the causal link between AI disclosure framing and student verification behavior. The survey was structured as a randomized controlled trial (RCT) and was created on Qualtrics.
 
